@@ -1,0 +1,24 @@
+크립토커런시 크롤링데이터
+
+https://coinmarketcap.com/currencies/bitcoin/historical-data/?start=20191201&end=20200117
+
+코인마켓 : close값준으로 할것인지 흠 
+
+
+금시세 크롤링 데이터
+
+https://www.kitco.com/londonfix/gold.londonfix20.html
+
+fix다음숫자가 년도
+
+1킬로 = 35.274 온스
+
+
+미국 주가 (다우존스 ) 데이터
+
+https://kr.investing.com/indices/us-30-historical-data
+
+input 값이 
+#startDate, #endDate
+
+selenium으로 조정해서 해야할듯한데?
